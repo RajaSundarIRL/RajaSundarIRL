@@ -1,5 +1,6 @@
 ### Hello there 👋
-I am Raja Sundar.
+- I am Raja Sundar.
+- This is the account I use to deal with projects in real life.
 <!--
 **RajaSundarIRL/RajaSundarIRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
